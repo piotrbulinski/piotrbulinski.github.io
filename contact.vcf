@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Piotr Buliński
+N:Buliński;Piotr;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:piotr@bulinski.pl
+EMAIL;TYPE=INTERNET;TYPE=WORK:piotr.bulinski@castlabs.com
+X-SKYPE:piotr_bulinski
+X-GTALK:piotr@bulinski.pl
+TEL;TYPE=CELL:+48533515575
+item1.URL:http\://piotr.bulinski.pl
+item1.X-ABLabel:PROFILE
+END:VCARD

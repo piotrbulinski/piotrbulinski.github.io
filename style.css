@@ -1,0 +1,116 @@
+body {
+	color: #111;
+	background-color: #eee;
+	font-family: Verdana, Tahoma, Prestige, monospace;
+	font-size: 12px;
+}
+
+a, a:link, a:visited, a:hover {
+    color: #999;
+}
+
+
+#content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+
+    width: 340px;
+    height: 140px;
+
+    margin-left: -170px;
+    margin-top: -70px;
+
+    border: 0px;
+    background-color: #fff;
+
+	border: solid 1px #CFCFCF;
+
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+
+	-webkit-box-shadow: 0 0 3px #CFCFCF;
+	-moz-box-shadow: 0 0 3px #CFCFCF;
+	box-shadow: 0 0 3px #CFCFCF;
+
+    padding: 10px;
+
+}
+
+#header {
+	padding: 5px;
+	border-bottom: 1px solid #cecece;
+	padding-bottom: 5px;
+}
+
+#header table {
+  width: 100%;
+}
+
+#header table td {
+  width: 50px;
+  padding: 0px;
+  margin: 0px;
+}
+
+#header img {
+    margin-right: 5px;
+	width: 50px;
+}
+
+#header h2 {
+	margin-top: 15px;
+	font-size: 20px;
+}
+
+#header h2 a {
+	text-decoration: none;
+	color: #000;
+}
+
+
+#info {
+    padding: 10px;
+	text-align: center;
+}
+
+#info img {
+	padding: 10px;
+}
+
+#lang {
+	float: right;
+}
+
+#contact {
+	border-top: 1px solid #cecece;
+	padding: 5px;
+	clear: both;
+}
+
+h4 {
+	font-size: 12px;
+	margin: 5px 0px;
+
+}
+
+#contactLeft {
+	width: 300px;
+	float: left;
+	position: relative;
+}
+
+#contactRight {
+	text-align: right;
+	width: 300px;
+	float: right;
+	position: relative;
+	margin-top: -10px;
+}
+
+.smalllink {
+	text-decoration: none;
+	font-size: 6px;
+	color: #ddd;
+}
